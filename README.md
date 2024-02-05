@@ -41,17 +41,7 @@ Sirve con recarga en caliente en localhost:8080:
 npm run serve
 ```
 
-### Ejecutando las pruebas
-
-Explica cómo ejecutar las pruebas automatizadas para este sistema.
-
-```bash
-npm run test
-```
-
-### Despliegue
-
-Añade notas adicionales sobre cómo desplegar esto en un sistema en vivo.
+### Ejecuta
 
 ```bash
 npm run build
